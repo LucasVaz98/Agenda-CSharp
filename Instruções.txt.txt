@@ -1,0 +1,16 @@
+Cadastrei o banco conforme as imagens 1 e 2; 
+
+
+Quanto ao aplicativo em C#, não consegui fnalizar tudo. 
+
+Implementei utilizando visual  Studio 2022, tive bastantes problemas com relação a ferramenta porque como passei não tenho tanta experiência com C# e ao baixar um novo ambiente do Visual Studio tive que configurar muitas coisas e me perdi.
+
+Tive algumas dúvidas principalmente relacionadas a essas configurações, mas consegui fazer as duas primeiras janelas.
+
+Confesso que algumas coisas não ficaram como eu gostaria, deixei os nomes das variáveis mistsurados entre português e inglês, a nomeclatura das variáveis, classes, etc... não deixei padronizado, peço perdão por isso também. 
+Não deixei pronto também a interface de comunicação com o banco de dados.
+
+Peço perdão pela demora na entrega do mesmo espero que considerem, fico a disposição para dúvidas.
+
+vazdelimalucas@gmail.com
+(19) 98173-0163
