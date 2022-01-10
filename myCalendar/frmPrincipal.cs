@@ -1,28 +1,18 @@
 namespace myCalendar
 {
-    public partial class FormPrincipal : Form
+    public partial class formPrincipal : Form
     {
-        public FormPrincipal()
+        public formPrincipal()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) // This meant to be the first button, o botão criar nova tarefa
         {
-            FormCadastroTarefa f = new FormCadastroTarefa();
+            formCadastroEventos f = new formCadastroEventos();
 
-            f.ShowDialog();
-            f.Dispose();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
+            f.ShowDialog(); // exibir o fomruilário para o usuário
+            f.Dispose(); // após fechar a janela com o formulário anterior, encerra ele para não acumular variáveis no programa
         }
     }
 }

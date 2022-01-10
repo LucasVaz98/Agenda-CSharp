@@ -17,3 +17,22 @@ C:\Users\vazde\source\repos\myCalendar\obj\Debug\net6.0-windows\myCalendar.pdb
 C:\Users\vazde\source\repos\myCalendar\obj\Debug\net6.0-windows\myCalendar.genruntimeconfig.cache
 C:\Users\vazde\source\repos\MyCalendar\obj\Debug\net6.0-windows\myCalendar.FormCadastroTarefa.resources
 C:\Users\vazde\source\repos\MyCalendar\obj\Debug\net6.0-windows\myCalendar.FormPrincipal.resources
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\myCalendar.exe
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\myCalendar.deps.json
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\myCalendar.runtimeconfig.json
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\myCalendar.dll
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\ref\myCalendar.dll
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\bin\Debug\net6.0-windows\myCalendar.pdb
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.GlobalUsings.g.cs
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.csproj.AssemblyReference.cache
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.FormPrincipal.resources
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.csproj.GenerateResource.cache
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.AssemblyInfoInputs.cache
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.AssemblyInfo.cs
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.csproj.CoreCompileInputs.cache
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.dll
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\ref\myCalendar.dll
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.pdb
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.genruntimeconfig.cache
+C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\obj\Debug\net6.0-windows\myCalendar.formCadastroEventos.resources

@@ -13,4 +13,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myCalendar
-build_property.ProjectDir = C:\Users\vazde\source\repos\MyCalendar\
+build_property.ProjectDir = C:\Users\vazde\Documents\myRepo\Desafio C#\agenda-em-c\myCalendar\

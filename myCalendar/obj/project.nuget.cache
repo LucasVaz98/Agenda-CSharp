@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aKqiggfOxofHALGRqRyLMHEhjfKegi6NM0CEblHmDhcoHylzUTei+Nzikp9IviudEq4kJv2KUA0EB1V4rj+rew==",
+  "dgSpecHash": "BTNLmqPnCAfUBok3yTbJN6wqsyEy/BpaDWm2sUspNigytuYhEQy9/KzVottYgKIr7u14FWrpmrN/lgzspdmy9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vazde\\source\\repos\\MyCalendar\\myCalendar.csproj",
+  "projectFilePath": "C:\\Users\\vazde\\Documents\\myRepo\\Desafio C#\\agenda-em-c\\myCalendar\\myCalendar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
