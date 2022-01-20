@@ -118,12 +118,12 @@ namespace myCalendar
             String strConexao = "Data Source=(LocalDb)\\Agenda;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
             Conexao conexao = new Conexao(strConexao);
-            DALContato dalContato = new DALContato(conexao);
+            DALEvento DALEvento = new DALEvento(conexao);
 
             if (this.operacao == "inserir")
             {
-                dalContato.Incluir(myNewEvent);
-                MessageBox.Show("Códigog gerado foi: " + myNewEvent.Id.ToString());
+                DALEvento.Incluir(myNewEvent);
+                MessageBox.Show("Código gerado foi: " + myNewEvent.Id.ToString());
  /*               
                 try
                 {

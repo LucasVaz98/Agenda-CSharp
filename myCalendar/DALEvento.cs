@@ -5,11 +5,11 @@ using System.Data.SqlClient;
 
 namespace myCalendar
 {
-    class DALContato
+    class DALEvento
     {
         private Conexao objConnection;
 
-        public DALContato(Conexao conexao)
+        public DALEvento(Conexao conexao)
         {
             objConnection = conexao;
         }
@@ -18,8 +18,9 @@ namespace myCalendar
         {
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = objConnection.ObjetoConexao;
-            cmd.CommandText = "insert into Events (task_tittle, task_description, task_date, task_start_date, task_end_date, task_priority, task_status)"+
-                              "values (@tittle, @description, @date, @start_date, @end_date, @prioriy, @status" +
+            cmd.CommandText =    "insert into [Agenda].[dbo].[Events](task_tittle, task_description, task_date, "+
+                              "task_start_date, task_end_date, task_priority, task_status) " +
+                              "(@tittle, @description, @date, @start_date, @end_date, @prioriy, @status" +
                               "); select @@IDENTITY;";
             cmd.Parameters.AddWithValue("@tittle", evento.Tittle);
             cmd.Parameters.AddWithValue("@description", evento.Description);
