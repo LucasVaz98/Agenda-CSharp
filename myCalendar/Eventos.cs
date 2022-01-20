@@ -14,13 +14,13 @@ namespace myCalendar
             this.Id = 0;
             this.Tittle = "";
             this.Description = "";
-            this.Date = new DateTime(1, 1, 1);
-            this.Start_time = new DateTime(1, 1, 1);
-            this.End_time = new DateTime(1, 1, 1);
+            this.Date = new DateTime();
+            this.Start_time = new DateTime();
+            this.End_time = new DateTime();
             this.Priority = 0;
             this.Status = 0;
         }
-          
+
         //Aqui estou atribuindo os valores para cada campo da classe Evento que criei em um outro construtor
         public Evento(int id, string tittle, string description, DateTime date, DateTime start_date, DateTime end_date, int status, int priority)
         {
